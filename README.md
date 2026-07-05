@@ -7,19 +7,19 @@
 
 ---
 
-## 👨‍💻 About Me
-- 💻 I'm studying Computer Engineering, continuously enhancing my skills in web development, and gaining hands-on experience through personal and team projects.
+
+-  I'm studying Computer Engineering, continuously enhancing my skills in web development, and gaining hands-on experience through personal and team projects.
 -  I have 3 years of coding experience in Front-End Development.
-- ⚛️ Focused on React, Next.js & TypeScript.
-- 🎯 Interested in Performance Optimization & Clean Architecture.
-- 🚀 Building modern, responsive and scalable web applications.
-- 👥 Passionate about projects, collaboration, and team work.
+-  Focused on React, Next.js & TypeScript.
+-  Interested in Performance Optimization & Clean Architecture.
+-  Building modern, responsive and scalable web applications.
+-  Passionate about projects, collaboration, and team work.
 
 ---
 
-## 🚀 Tech Stack
+Tech Stack
 
-## ⚛️ Frontend Core
+Frontend Core
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,materialui,tailwind&perline=8" />
@@ -43,17 +43,17 @@
 
 <!-- ---
 
-## 🌟 Featured Projects
+  Featured Projects
 
-### 🛒 E-Commerce Platform
+  E-Commerce Platform
 
 React + Tailwind + REST API  
-🔗 Live Demo: [View Project](#)
+ Live Demo: [View Project](#)
 
 ### 📊 Admin Dashboard
 
 Next.js + Chart.js  
-🔗 Live Demo: [View Project](#)
+ Live Demo: [View Project](#)
 
 --- -->
 
